@@ -29,7 +29,6 @@ PRODUCT_PACKAGES += \
     TimeService
 
 DEVICE_PACKAGE_OVERLAYS += \
-    device/huawei/angler/overlay_maru/location \
     device/huawei/angler/overlay_maru/apps \
     device/huawei/angler/overlay_maru/daydream
 

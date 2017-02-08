@@ -18,4 +18,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_angler.mk
 
 PRODUCT_MAKEFILES += \
-		$(LOCAL_DIR)/maru_angler.mk
+				$(LOCAL_DIR)/maru_angler.mk
